@@ -3,7 +3,7 @@
 These are our Custom Eggs for our Pterodactyl GSM, feel free to make PR's to add new Eggs or update existing ones if you find anything to tweak / improve!
 
 
-## Currently implemented Games
+## Currently self-implemented Games
 
 # GTA
 
